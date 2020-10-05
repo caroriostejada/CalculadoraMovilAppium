@@ -1,0 +1,6 @@
+Enums/VariablesSession.java
+ Enums.VariablesSession
+steps/CalculadoraAppiumStep.java
+ steps.CalculadoraAppiumStep
+definitions/CalculadoraAppiumDefinition.java
+ definitions.CalculadoraAppiumDefinition

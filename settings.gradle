@@ -1,0 +1,5 @@
+rootProject.name = 'EjercicioCalculadoraAppium'
+include 'src'
+include 'main'
+include 'test'
+
